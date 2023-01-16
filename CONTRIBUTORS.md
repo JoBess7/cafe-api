@@ -1,4 +1,4 @@
-**Contributeurs**
+**Contributors**
 
 Jonathan Bessette (me!)  
 [Thomas Mondor](https://github.com/TomMondor/)  

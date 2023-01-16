@@ -80,7 +80,7 @@ Sélectionner le fichier checkstyle.xml à la root du projet
 //Pour tester le formateur, dans un fichier Java, appuyez sur Ctrl+Alt+Shift+L
 ```
 
-# Conventions et Processus
+# Contributeurs
 
-Pour plus de détails sur les méthodologies, conventions et processus employés par l'équipe, consultez le [wiki](https://github.com/GLO4002UL/projet2022-eq14/wiki).
+Voir `CONTRIBUTORS.md`
 
